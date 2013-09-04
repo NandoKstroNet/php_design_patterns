@@ -1,4 +1,4 @@
 PhP_Design_Patterns
 ===================
 
- ``This repository will used for publish about php design patterns! Help me this  work! ``
+ ``Reposiorio utilizado para conteúdos referente a Design Patterns em PHP. Ajude-me nessa! :D ``
